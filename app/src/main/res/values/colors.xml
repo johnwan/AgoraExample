@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="app_background">#F2F2F2</color>
+    <color name="dialog_background">#4D000000</color>
+
+    <color name="drawer_blue">#FF1677CB</color>
+    <color name="drawer_black">#FF3A3F4D</color>
+
+    <color name="seek_black">#595A5D</color>
+    <color name="seek_yellow">#DCB059</color>
+
+    <color name="about_blue">#FF1677CB</color>
+    <color name="about_gray">#FFB5B7BD</color>
+    <color name="about_black">#FF444A59</color>
+
+    <color name="remote_user_bg">#3B3E4D</color>
+
+    <color name="notification_old">#99FFFFFF</color>
+    <color name="notification_new">#D9FFFFFF</color>
+
+    <color name="test_black">#6A6F7B</color>
+    <color name="test_gray">#B7B7B7</color>
+    <color name="test_yellow">#DCB059</color>
+
+    <color name="evaluation_black">#FF6A6F7B</color>
+    <color name="evaluation_yellow">#FFDCBA75</color>
+    <color name="evaluation_title">#FFC6C6C6</color>
+    <color name="evaluation_detail">#FF949494</color>
+
+    <color name="overall_text">#FFC9E6FF</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#9F9F9F</color>
+    <color name="light_white">#66FFFFFF</color>
+    <color name="yellow">#FFDCB059</color>
+    <color name="hint">#9F9F9F</color>
+</resources>
